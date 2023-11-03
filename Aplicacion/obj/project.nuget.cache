@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GlqMumGEDMVU3ITFKnlo/0sTtXCstLDEJXZf6gEQaBX1gPGIoecDgxZfqDrecWTG/sS8HOm5FDvbvxfKPwUx6w==",
+  "dgSpecHash": "7GyLDmnKSqQB18fLqdOOqdVsEYK8+IV09p3BIWDX8oZaWD19DtsILdXCoy1XzOuP3TfLox1C9er41fI84T4+ig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\scrum\\Documents\\PushUpBackEnd\\BackEnd\\Aplicacion\\Aplicacion.csproj",
+  "projectFilePath": "C:\\Users\\scrum\\Documents\\PushUpQuiomar\\Aplicacion\\Aplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\scrum\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",
     "C:\\Users\\scrum\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",

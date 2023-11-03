@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6XqRzCkVu+dGNrrlCxoKsZna8avGAwMxpNqmhAPbLRbrX3/GY2CVPMJynJ7IV/CSDnxoavzS85LkhIjgrIt/Vg==",
+  "dgSpecHash": "tt6s5v/y1jmoddLv0m3jXigE5lIEq/LVt+RqYzSbDak1ZSNx/7oxrlBQW4gdIe8Pq47FqbKeqo2dtXjNQ8QX3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\scrum\\Documents\\PushUpBackEnd\\BackEnd\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\scrum\\Documents\\PushUpQuiomar\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\scrum\\.nuget\\packages\\aspnetcoreratelimit\\5.0.0\\aspnetcoreratelimit.5.0.0.nupkg.sha512",
     "C:\\Users\\scrum\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",

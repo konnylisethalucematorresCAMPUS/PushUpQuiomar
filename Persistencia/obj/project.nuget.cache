@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KJBegucQITF2dGgEA7OyLAHeuZXj7v7FtYk15uEd3eThiZzNBD8mmj5ErFARfWhh20iUq0xFEfFELCFDwYeU3Q==",
+  "dgSpecHash": "ngXwZkpxHPibdWh8CpOMp7zgT8sLEu4HuyTspxfGk4mUQgvBJqoTNRaIcrBl1gUDsP/M2Qf3B4UyPy8zJnhK1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\scrum\\Documents\\PushUpBackEnd\\BackEnd\\Persistencia\\Persistencia.csproj",
+  "projectFilePath": "C:\\Users\\scrum\\Documents\\PushUpQuiomar\\Persistencia\\Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\scrum\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",
     "C:\\Users\\scrum\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",

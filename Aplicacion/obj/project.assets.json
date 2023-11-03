@@ -5358,11 +5358,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\scrum\\Documents\\PushUpBackEnd\\BackEnd\\Aplicacion\\Aplicacion.csproj",
+      "projectUniqueName": "C:\\Users\\scrum\\Documents\\PushUpQuiomar\\Aplicacion\\Aplicacion.csproj",
       "projectName": "Aplicacion",
-      "projectPath": "C:\\Users\\scrum\\Documents\\PushUpBackEnd\\BackEnd\\Aplicacion\\Aplicacion.csproj",
+      "projectPath": "C:\\Users\\scrum\\Documents\\PushUpQuiomar\\Aplicacion\\Aplicacion.csproj",
       "packagesPath": "C:\\Users\\scrum\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\scrum\\Documents\\PushUpBackEnd\\BackEnd\\Aplicacion\\obj\\",
+      "outputPath": "C:\\Users\\scrum\\Documents\\PushUpQuiomar\\Aplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\scrum\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -5377,11 +5377,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\scrum\\Documents\\PushUpBackEnd\\BackEnd\\Dominio\\Dominio.csproj": {
-              "projectPath": "C:\\Users\\scrum\\Documents\\PushUpBackEnd\\BackEnd\\Dominio\\Dominio.csproj"
+            "C:\\Users\\scrum\\Documents\\PushUpQuiomar\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\scrum\\Documents\\PushUpQuiomar\\Dominio\\Dominio.csproj"
             },
-            "C:\\Users\\scrum\\Documents\\PushUpBackEnd\\BackEnd\\Persistencia\\Persistencia.csproj": {
-              "projectPath": "C:\\Users\\scrum\\Documents\\PushUpBackEnd\\BackEnd\\Persistencia\\Persistencia.csproj"
+            "C:\\Users\\scrum\\Documents\\PushUpQuiomar\\Persistencia\\Persistencia.csproj": {
+              "projectPath": "C:\\Users\\scrum\\Documents\\PushUpQuiomar\\Persistencia\\Persistencia.csproj"
             }
           }
         }

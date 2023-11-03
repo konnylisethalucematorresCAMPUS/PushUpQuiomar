@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\scrum\\Documents\\PushUpBackEnd\\BackEnd\\Dominio\\Dominio.csproj": {}
+    "C:\\Users\\scrum\\Documents\\PushUpQuiomar\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\scrum\\Documents\\PushUpBackEnd\\BackEnd\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\scrum\\Documents\\PushUpQuiomar\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\scrum\\Documents\\PushUpBackEnd\\BackEnd\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\scrum\\Documents\\PushUpQuiomar\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\scrum\\Documents\\PushUpBackEnd\\BackEnd\\Dominio\\Dominio.csproj",
+        "projectPath": "C:\\Users\\scrum\\Documents\\PushUpQuiomar\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\scrum\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\scrum\\Documents\\PushUpBackEnd\\BackEnd\\Dominio\\obj\\",
+        "outputPath": "C:\\Users\\scrum\\Documents\\PushUpQuiomar\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\scrum\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Cu2IC7u/123+OZdlGOE5ZqQsLylAL9n/KUwreJpWhPxipNRubJ70MYbSxGXkkMnNLgsuvCyl7U4e8JBXgDRhug==",
+  "dgSpecHash": "rNggaKoFi7j/6NqyHEtk5KqwNzPLT8nOlJw34g9SO7m8lWzS1tJfiVmi/IzoDGRXfj/5kQPNe8rTJTthjf46Jw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\scrum\\Documents\\PushUpBackEnd\\BackEnd\\Dominio\\Dominio.csproj",
+  "projectFilePath": "C:\\Users\\scrum\\Documents\\PushUpQuiomar\\Dominio\\Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\scrum\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\scrum\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
