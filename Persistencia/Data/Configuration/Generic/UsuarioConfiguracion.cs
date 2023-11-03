@@ -68,20 +68,20 @@ namespace Persistencia.Data.Configuracion;
             builder.HasData(
                 new {
                     Id = 1,
-                    Username = "Sicer Brito",
-                    Email = "britodelgado514@gmail.com",
+                    Username = "marlonVillamil",
+                    Email = "marlon5124@gmail.com",
                     Password = "1234"
                 },
                 new {
                     Id = 2,
-                    Username = "Angelica Morales",
-                    Email = "angedeveloper@gmail.com",
+                    Username = "stivenpiraqui",
+                    Email = "stivenpiraqui@gmail.com",
                     Password = "12345"
                 },
                 new {
                     Id = 3,
-                    Username = "Konny Alucemna",
-                    Email = "lisethtorres969@gmail.com",
+                    Username = "MillerMarquez",
+                    Email = "MillerMarquez9@gmail.com",
                     Password = "123456"
                 }
             );
