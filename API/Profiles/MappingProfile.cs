@@ -10,13 +10,7 @@ namespace API.Profiles;
             CreateMap<Rol, RolDto>()
                 .ReverseMap();
 
-                
-            //TODO: Ejemplo
-            // CreateMap<NombreDto1, NombreEntidad1>()
-            //     .ReverseMap();
-
-            // CreateMap<NombreDto2, NombreEntidad2>()
-            //     .ReverseMap();
+        
 
         }
     }
